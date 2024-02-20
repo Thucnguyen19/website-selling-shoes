@@ -1,0 +1,25 @@
+.price-discount-detail {
+  font-size: 28px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #ffba00 0%, #ff6c00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+span.price-detail {
+  margin-left: 20px;
+  color: #ff0000;
+  text-decoration: line-through;
+}
+
+.sale-percentage {
+  display: flex;
+  background-image: url(//theme.hstatic.net/200000182297/1000887316/14/group_5.png?v=1008);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 1px 7px;
+  color: #fff;
+  font-size: 12px;
+  /* transform: translateY(-6px); */
+  align-items: flex-end;
+  margin-left: 25px;
+}
